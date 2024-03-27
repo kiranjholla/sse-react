@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+
+.contained {
+  flex-basis: 1
+}
+
+.title {
+  font-weight: bold;
+}
